@@ -2,7 +2,6 @@
 <!-- Full Width Column -->
 <div class="container">
 	<div class="row">
-		
 		<?php
 			if (isset($_POST['sendmessage'])){ ?>
 				<div class="col-md-12" style="margin-bottom: 30px; width: 100%;">
