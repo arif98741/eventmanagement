@@ -1,5 +1,5 @@
 {
-    "name": "manage/manageevent",
+    "name": "event/eventregister",
     "type": "project",
     "license": "MIT",
     "homepage": "https://github.com/arif98741/eventmanagement",
