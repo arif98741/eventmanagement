@@ -2,12 +2,18 @@
     "name": "event/eventmanage",
     "type": "project",
     "license": "MIT",
+    "homepage": "https://github.com/arif98741/eventmanagement",
     "authors": [
         {
-            "name": "arif98741",
-            "email": "arifsofg@gmail.com"
+            "name": "Ariful Islam",
+            "email": "arif98741@gmail.com",
+            "homepage": "https://github.com/arif98741/eventmanagement",
+            "role": "Developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/arif98741/eventmanagement/issues"
+    },
     "require": {
          "php": "^7.0"
     }
