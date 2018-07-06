@@ -1,0 +1,14 @@
+{
+    "name": "event/eventmanagement",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arif98741",
+            "email": "arifsofg@gmail.com"
+        }
+    ],
+    "require": {
+         "php": "^7.0"
+    }
+}
