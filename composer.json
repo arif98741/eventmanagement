@@ -14,6 +14,7 @@
     "support": {
         "issues": "https://github.com/arif98741/eventmanagement/issues"
     },
+    "minimum-stability": "stable",
     "require": {
          "php": "^7.0"
     }
